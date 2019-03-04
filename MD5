@@ -1,0 +1,14 @@
+f3f5b0c4f33e727b80a22310f8d91a7f *DESCRIPTION
+dffec78e09740548a1c7395558e54ad9 *LICENSE
+21b53bcd37a0fdc066b28bad23fc12c9 *NAMESPACE
+2663830233f3fa883ddfad74f09d3424 *NEWS.md
+11881bb805aafc5fdfe6f55ca3d74879 *R/get_dists.R
+b8bca295f69832e4d7cc4275d537eaf0 *README.md
+e4640c27b769cb9b2be85adb2da4634f *build/vignette.rds
+57cc6609f9ac99623d6b895ac3075c7f *inst/doc/disttools.R
+416c6bbd996738e35b6dd9b4dc57a243 *inst/doc/disttools.Rmd
+caa153f0bf0e98dbd1922f88c9e8492b *inst/doc/disttools.html
+7b6825119731ca9b9abdee6df8be8d27 *man/get_dists.Rd
+8bdb1b7342b44e4e551d034d66b39682 *tests/testthat.R
+fb18ad6ce5cc42349329e18a3bae18ce *tests/testthat/test.get_dists.R
+416c6bbd996738e35b6dd9b4dc57a243 *vignettes/disttools.Rmd
