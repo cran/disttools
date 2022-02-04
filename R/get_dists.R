@@ -53,8 +53,8 @@ get_dists <- function(x, i, j = NULL, return_indices = FALSE){
     if(
       !(
         (length(class(i)) == 1) && (length(class(j)) == 1) &&
-        ((class(i) == "numeric") || (class(i) == "integer")) &&
-        ((class(j) == "numeric") || (class(j) == "integer")) &&
+        ((class(i) == "integer") || (class(i) == "numeric")) &&
+        ((class(j) == "integer") || (class(j) == "numeric")) &&
         all(as.integer(i) == i) && all(as.integer(j) == j) &&
         (length(i) == length(j))
       )
@@ -75,8 +75,8 @@ get_dists <- function(x, i, j = NULL, return_indices = FALSE){
   if(
     !(
       (
-        (class(i) == "matrix") &&
-        ((class(i[1]) == "numeric") || (class(i[1]) == "integer")) &&
+        (class(i)[1] == "matrix") &&
+        (class(i[1]) %in% c("numeric","integer")) &&
         all(as.integer(i) == i) &&
         all((i >= 1) & (i <= size))
       )

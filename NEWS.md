@@ -1,6 +1,6 @@
-# disttools 0.1.7
+# disttools 0.1.8
 
-* Updated DESCRIPTION based on CRAN team comments.
+* Updated argument checks to handle a change in a dependency.
 
 
 

@@ -3,9 +3,10 @@ Improved methods for handling 'dist' objects in R.
 
 
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/disttools)](https://cran.r-project.org/package=disttools)
-[![Travis-CI Build Status](https://travis-ci.org/MAMC-DCI/disttools.svg?branch=master)](https://travis-ci.org/MAMC-DCI/disttools#)
+[![R-CMD-check](https://github.com/MAMC-DCI/disttools/workflows/R-CMD-check/badge.svg)](https://github.com/MAMC-DCI/disttools/actions)
 [![Build status](https://ci.appveyor.com/api/projects/status/xndap91f50c5ou63?svg=true)](https://ci.appveyor.com/project/mamcdci/disttools)
 [![Coverage Status](https://img.shields.io/codecov/c/github/mamc-dci/disttools/master.svg)](https://codecov.io/github/mamc-dci/disttools?branch=master)
+[![DOI](https://zenodo.org/badge/149624471.svg)](https://zenodo.org/badge/latestdoi/149624471)
 
 
 ## Overview
